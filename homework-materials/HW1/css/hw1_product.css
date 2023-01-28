@@ -1,6 +1,8 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 a {
@@ -34,14 +36,13 @@ a {
 
 .nav_product a,
 .nav_cart a {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 26px;
     text-align: center;
     margin-top: 16px;
     margin-bottom: 16px;
 }
 
-.nav_product a:hover,
+.nav_product a,
 .nav_cart a:hover {
     background-color: yellow;
     font-weight: 600;
@@ -49,11 +50,9 @@ a {
 
 .rolls {
     margin: 100px auto;
-    /* display: flex; */
 }
 
 .rolls>p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 36px;
     text-align: center;
 }
@@ -79,12 +78,10 @@ a {
 .rolls .products a {
     font-size: 24px;
     text-decoration: underline;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 300;
 }
 
 .rolls .products p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 24px;
     font-weight: 300;
 }
