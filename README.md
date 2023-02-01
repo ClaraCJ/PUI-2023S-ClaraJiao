@@ -5,5 +5,3 @@
 
 ## Deployed website: 
 Homework 1: https://claracj.github.io/PUI-2023S-ClaraJiao/homework-materials/HW1/product.html
-
-Repository link: https://claracj.github.io/PUI-2023S-ClaraJiao/
