@@ -4,4 +4,5 @@
 
 
 ## Deployed website: 
-Homework 1: https://claracj.github.io/PUI-2023S-ClaraJiao/homework-materials/HW1/product.html
+Homework: http://127.0.0.1:5500/homework-materials/index.html
+Repository link: https://claracj.github.io/PUI-2023S-ClaraJiao/
