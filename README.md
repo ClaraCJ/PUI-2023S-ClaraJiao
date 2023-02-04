@@ -4,5 +4,7 @@
 
 
 ## Deployed website: 
-Homework: http://127.0.0.1:5500/homework-materials/index.html
+Deployed website: 
+https://claracj.github.io/teach-PUI-2023S-example/index.html
+
 Repository link: https://claracj.github.io/PUI-2023S-ClaraJiao/
